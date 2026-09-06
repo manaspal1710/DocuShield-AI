@@ -1,4 +1,4 @@
-# 🛡️ DocuShield AI — SIH26188
+# 🛡️ DocuShield AI 
 
 ## AI-Based Fake Identity & Document Screening System
 
@@ -185,12 +185,6 @@ sih26188-docushield/
 
 ---
 
-## 👥 Team
-
-**SIH26188** — Smart India Hackathon 2026
-
----
-
 ## 📄 License
 
-This project is built for educational and hackathon purposes.
+This project is built for educational purpose
